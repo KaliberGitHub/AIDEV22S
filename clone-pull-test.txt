@@ -1,1 +1,5 @@
 Den här filen klonas/är klonad från min github-repo
+
+---
+
+kloning klar, commitar dessa ändringar och pushar tillbaks
